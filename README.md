@@ -12,7 +12,6 @@ body {
 <html>
  <head>
     <title>I Love Seventeen <33</title>
- </style>
   </head>
 
 <body>
