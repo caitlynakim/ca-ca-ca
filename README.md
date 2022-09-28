@@ -4,15 +4,14 @@ My Seventeen fanpage website.
 ---
 
 @import "{{ site.theme }}";
+body {
+	background-image: linear-gradient(to right, #F7CACA, #B1C9E8);
+}
 
 <!DOCTYPE html>
 <html>
  <head>
     <title>I Love Seventeen <33</title>
- <style>
-	body {
-		background-image: linear-gradient(to right, #F7CACA, #B1C9E8);
-	}
  </style>
   </head>
 
