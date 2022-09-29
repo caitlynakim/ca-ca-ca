@@ -1,4 +1,7 @@
 ---
 ---
 
-
+@import "{{ site.theme }}";
+body {
+	background-image: linear-gradient(to right, #F7CACA, #B1C9E8);
+}
