@@ -14,10 +14,11 @@ I Love Seventeen <33.
  
 <p>The members in this group include S-Coups, Jeonghan, Joshua, Jun, Hoshi, Wonwoo, Woozi, DK, Mingyu, The8, Seungkwan, Vernon, and Dino!</p>
  
- ![A group picture of all thirteen members in Seventeen!](550px-SEVENTEEN_-_An_Ode_promo.jpg "Seventeen Right Here!")
-<figcaption>A group picture of all thirteen members in Seventeen!</figcaption>
-<br>
- 
+<figure>
+  ![A group picture of all thirteen members in Seventeen!](550px-SEVENTEEN_-_An_Ode_promo.jpg "Seventeen Right Here!")
+  <figcaption>A group picture of all thirteen members in Seventeen!</figcaption>
+</figure>
+
 <p> My bias, or favorite member, is <strong>Dino</strong> (he needs more spotlight :(( )! But all the members are very talented especially in dance!</p>
  
 <p>What makes Seventeen special is the fact that they self-produce the majority of their songs as well as the choreography!</p>
