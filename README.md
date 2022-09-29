@@ -1,12 +1,5 @@
 # ca-ca-ca
 I Love Seventeen <33.
----
----
-
-@import "{{ site.theme }}";
-body {
-	background-image: linear-gradient(to right, #F7CACA, #B1C9E8);
-}
 
 <!DOCTYPE html>
 <html>
