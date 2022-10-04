@@ -12,7 +12,7 @@
  
 <p>The members in this group include S-Coups, Jeonghan, Joshua, Jun, Hoshi, Wonwoo, Woozi, DK, Mingyu, The8, Seungkwan, Vernon, and Dino!</p>
  
-<img src="550px-SEVENTEEN_-_An_Ode_promo.jpg" alt="A group picture of all thirteen members in Seventeen!" width="300" height="400">
+<img src="550px-SEVENTEEN_-_An_Ode_promo.jpg" alt="A group picture of all thirteen members in Seventeen!">
 
 > <p> My bias, or favorite member, is <strong>Dino</strong> (he needs more spotlight)! But all the members are very talented especially in dance!</p>
  
