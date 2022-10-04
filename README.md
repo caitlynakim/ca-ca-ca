@@ -1,7 +1,6 @@
 # ca-ca-ca
 I Love Seventeen <33.
 
-<!DOCTYPE html>
 <html>
  <head>
   </head>
@@ -10,14 +9,15 @@ I Love Seventeen <33.
 
 <h1>Popular K-pop Group: Seventeen!</h1>
 <h2><i>circa May 26, 2015</i></h2>
-<hr size="3" width="100%" color="grey">
+<hr size="3" width="100%" color="white">
  
 <p>The members in this group include S-Coups, Jeonghan, Joshua, Jun, Hoshi, Wonwoo, Woozi, DK, Mingyu, The8, Seungkwan, Vernon, and Dino!</p>
  
-![A group picture of all thirteen members in Seventeen!](550px-SEVENTEEN_-_An_Ode_promo.jpg "Seventeen Right Here!")
+ 
+![A group picture of all thirteen members in Seventeen!](550px-SEVENTEEN_-_An_Ode_promo.jpg)
 
 
-> <p> My bias, or favorite member, is <strong>Dino</strong> (he needs more spotlight :(( )! But all the members are very talented especially in dance!</p>
+> <p> My bias, or favorite member, is <strong>Dino</strong> (he needs more spotlight)! But all the members are very talented especially in dance!</p>
  
 What makes Seventeen special is the fact that they self-produce the majority of their songs as well as the choreography!
  
