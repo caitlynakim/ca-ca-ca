@@ -1,5 +1,4 @@
 # ca-ca-ca
-I Love Seventeen <33.
 
 <html>
  <head>
@@ -13,9 +12,7 @@ I Love Seventeen <33.
  
 <p>The members in this group include S-Coups, Jeonghan, Joshua, Jun, Hoshi, Wonwoo, Woozi, DK, Mingyu, The8, Seungkwan, Vernon, and Dino!</p>
  
- 
-![A group picture of all thirteen members in Seventeen!](http://www.generasia.com/w/images/thumb/7/73/SEVENTEEN_-_An_Ode_promo.jpg/550px-SEVENTEEN_-_An_Ode_promo.jpg)
-
+<img src="550px-SEVENTEEN_-_An_Ode_promo.jpg" alt="A group picture of all thirteen members in Seventeen!" width="300" height="400">
 
 > <p> My bias, or favorite member, is <strong>Dino</strong> (he needs more spotlight)! But all the members are very talented especially in dance!</p>
  
