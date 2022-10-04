@@ -1,7 +1,9 @@
 <h1> Information About Dino!</h1>
 
-- Real Name: Lee Chan
-- Birthplace: Iksan-si, Jeollakbu-do, South Korea
-- Birthday: February 11, 1999
-- Group Position: Main Dancer, Sub Vocalist/Rapper
-- Mbti: ENFJ
+<ul style="list-style-type:circle;">
+  <li> Real Name: Lee Chan </li>
+  <li> Birthplace: Iksan-si, Jeollakbu-do, South Korea </li>
+  <li> Birthday: February 11, 1999 </li>
+  <li> Group Position: Main Dancer, Sub Vocalist/Rapper </li>
+  <li> Mbti: ENFJ </li>
+</ul>
