@@ -21,9 +21,6 @@
   <p><a href="https://www.youtube.com/watch?v=SUBENaJNfNY" target="_blank">Watch</a> one of their dances to Fallin' Flower!</p>
 
   <p><a href="dino.html">Click here</a> to learn more about Dino!</p>
-
-
-  <nav><a href="dino.html">Dino</a></nav>
   </body>
 
 
