@@ -18,7 +18,7 @@ My bias, or favorite member, is <strong>Dino</strong> (he needs more spotlight)!
  
 <p><a href="https://www.youtube.com/watch?v=SUBENaJNfNY" target="_blank">Watch</a> one of their dances to Fallin' Flower!</p>
  
-<p><a href="https://github.com/caitlynakim/ca-ca-ca/blob/12f887ee959a03b1f6a2059e89e589b8d31627ca/dino">Click here</a> to learn more about Dino!</p>
+<p><a href="dino.html">Click here</a> to learn more about Dino!</p>
  
  
 <nav><a href="dino.html">Dino</a></nav>
