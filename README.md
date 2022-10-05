@@ -7,7 +7,7 @@
   <body>
 
   <h1>𓆩♡𓆪 Popular K-pop Group: Seventeen! 𓆩♡𓆪</h1>
-  <h2><i>-- circa May 26, 2015 --</i></h2>
+  <h2><i>—— circa May 26, 2015 ——</i></h2>
   <hr size="3" width="100%" color="white">
 
   <p>The members in this group include S-Coups, Jeonghan, Joshua, Jun, Hoshi, Wonwoo, Woozi, DK, Mingyu, The8, Seungkwan, Vernon, and Dino! Seventeen's fanbase is called Carats. 💎</p>
