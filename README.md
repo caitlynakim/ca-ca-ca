@@ -6,7 +6,7 @@
 
   <body>
 
-  <h1>Popular K-pop Group: Seventeen! 𓆩♡𓆪</h1>
+  <h1>𓆩♡𓆪 Popular K-pop Group: Seventeen! 𓆩♡𓆪</h1>
   <h2><i>-- circa May 26, 2015 --</i></h2>
   <hr size="3" width="100%" color="white">
 
