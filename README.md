@@ -14,6 +14,7 @@
 
   <img src="550px-SEVENTEEN_-_An_Ode_promo.jpg" alt="A group picture of all thirteen members in Seventeen!">
 
+  <br>
   My bias, or favorite member, is <strong>Dino</strong> (he needs more spotlight)! But all the members are very talented especially in dance!
 
   <p> What makes Seventeen special is the fact that they self-produce the majority of their songs as well as the choreography! </p>
